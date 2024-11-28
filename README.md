@@ -21,8 +21,8 @@ Let's start with the main header files to define our structures and functions:
 ## make and build from source
 
 ```bash
-git clone https://github.com/un1crom/tastewarp.git
-cd tastewarp
+git clone https://github.com/un1crom/i-want-you-to-tastewarp.git
+cd i-want-you-to-tastewarp
 make
 ./tastewarp
 ```
@@ -37,7 +37,7 @@ make
 4. Right-click TasteWarp in Applications and select "Open" (required first time only due to security)
 
 ### Linux
-1. Download the latest release for Linux from the [Releases page](https://github.com/un1crom/tastewarp/releases)
+1. Download the latest release for Linux from the [Releases page](https://github.com/un1crom/i-want-you-to-tastewarp/releases)
 2. Extract the .tar.gz file
 3. Install dependencies:
    ```bash
