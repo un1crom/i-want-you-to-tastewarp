@@ -31,7 +31,7 @@ make
 
 ### macOS
 
-1. Download the latest release for macOS from the [Releases page](https://github.com/un1crom/tastewarp/releases)
+1. Download the latest release for macOS from the [Releases page](https://github.com/un1crom/i-want-you-to-tastewarp/releases)
 2. Double-click the downloaded .dmg file
 3. Drag TasteWarp to your Applications folder
 4. Right-click TasteWarp in Applications and select "Open" (required first time only due to security)
@@ -40,6 +40,8 @@ make
 1. Download the latest release for Linux from the [Releases page](https://github.com/un1crom/i-want-you-to-tastewarp/releases)
 2. Extract the .tar.gz file
 3. Install dependencies:
+
+I might be missing stuff here. use AI to figure it out. hahaha
    ```bash
    # Ubuntu/Debian
    sudo apt install libgtk-3-0 libpulse0 libfftw3-3
@@ -53,11 +55,6 @@ make
 4. Run the executable: `./tastewarp`
 
 ### Windows
-Currently not supported (contributions welcome!)
+Currently not supported
 
-## Building from Source
-
-### Dependencies
-
-#### macOS
-
+just use cloud computer or use WSL or something.
